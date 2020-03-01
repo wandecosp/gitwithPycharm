@@ -1,1 +1,2 @@
-modelo de var
+Calculadora VAR
+Calculadora BVAR
